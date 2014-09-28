@@ -4,21 +4,22 @@ More accurate results could be gathered via "Image Search" and "YouTube
 Search". The difficulty is in comparing the different kinds of searches.
 
 Meme,Top Score,Notes
-All Your Base, 1.0, Peaked very near the beginning of Google Trends' data set.
-Hampster Dance, 0.1481, Probably peaked before Google Trends' data set.
-This is dog, 0.2063
-Ecce homo, 1.2517
+Rick Perry, 3.500
 Peanut Butter Jelly Time, 2.4546
+Honey Badger, 2.148
+Ecce homo, 1.2517
+All Your Base, 1.0, Peaked very near the beginning of Google Trends' data set.
+Flying Spaghetti Monster, 0.9683
+Shit My Dad Says, 0.5608
+This is dog, 0.2063
+Philosoraptor, 0.2063
+Hampster Dance, 0.1481, Probably peaked before Google Trends' data set.
+Series of Tubes, 0.1323
+You Know Nothing Jon Snow, 0.1323
+I don't want to live on this planet anymore, .0529
+Get a Brain Morans, 0.0078, Compared to Hampster Dance for better precision: .0529 x .1481. "Morans" gives larger results. Check that.
+Annoyed Picard, 0.0078, Compared to Hampster Dance for better precision: .0529 x .1481. Suspiciously exactly the same as "Get a Brain Morans"
+
 Domo,,Hard to search confidently
 Badger badger,,Not significantly different from "badger"
 email.gif, 0
-Get a Brain Morans, 0.0078, Compared to Hampster Dance for better precision: .0529 x .1481. "Morans" gives larger results. Check that.
-Rick Perry, 3.500
-Series of Tubes, 0.1323
-Philosoraptor, 0.2063
-I don't want to live on this planet anymore, .0529
-Honey Badger, 2.148
-Shit My Dad Says, 0.5608
-Annoyed Picard, 0.0078, Compared to Hampster Dance for better precision: .0529 x .1481. Suspiciously exactly the same as "Get a Brain Morans"
-You Know Nothing Jon Snow, 0.1323
-Flying Spaghetti Monster, 0.9683

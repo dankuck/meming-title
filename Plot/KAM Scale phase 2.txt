@@ -1,0 +1,33 @@
+These data were collected on 2014-09-27 from trends.google.com using the default settings, including "Web Search".
+
+More accurate results could be gathered via "Image Search" and "YouTube 
+Search". The difficulty is in comparing the different kinds of searches.
+
+In this phase, we compare memes to those directly before and after them, 
+instead of only comparing to the baseline. In this system, this method is 
+expected to yield better results, because Google Trends seems to smooth things
+out somewhat at different zoom levels.
+
+All Your Base is still used as a baseline.
+
+Meme,Top Score,Notes
+Rick Perry, 3.337, 1.316 * 1.266 * 1.5625 * 1.282
+Peanut Butter Jelly Time, 2.536, 1.266 * 1.5625 * 1.282
+Honey Badger, 2.003, 1.5625 * 1.282
+Ecce homo, 1.282
+All Your Base, 1.0, Peaked very near the beginning of Google Trends' data set.
+Flying Spaghetti Monster, .9000, 
+Shit My Dad Says, 0.5220, .5800 * .9000
+This is dog, 0.2036, .3900 * .5800 * .9000
+Philosoraptor, 0.1792, 0.8800 * .3900 * .5800 * .9000
+Hampster Dance, 0.1469, 0.8200 * 0.8800 * .3900 * .5800 * .9000
+Series of Tubes, 0.1263, 0.8600 * 0.8200 * 0.8800 * .3900 * .5800 * .9000
+You Know Nothing Jon Snow, 0.1074, 0.8500 * 0.8600 * 0.8200 * 0.8800 * .3900 * .5800 * .9000
+I don't want to live on this planet anymore, 0.0451, 0.4200 * 0.8500 * 0.8600 * 0.8200 * 0.8800 * .3900 * .5800 * .9000
+Annoyed Picard, 0.0063, .1400 * 0.4200 * 0.8500 * 0.8600 * 0.8200 * 0.8800 * .3900 * .5800 * .9000
+Get a Brain Morans, 0.0061, .9700 * .1400 * 0.4200 * 0.8500 * 0.8600 * 0.8200 * 0.8800 * .3900 * .5800 * .9000
+
+These numbers show differences between memes that were not visible when 
+comparing directly to the All Your Base baseline meme. Notably: Annoyed Picard
+and Get a Brain Morans show a slight difference; and Philosoraptor and 
+Hampster Dance show a small but potentially significant difference.
